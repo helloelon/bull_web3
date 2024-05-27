@@ -668,7 +668,7 @@ _______________________________________________________*/
 }
 
 .main-banner{
-	background: url(../images/banner-bg.jpg) no-repeat scroll 0 0;
+	background-image: linear-gradient(to right,#3a1056, #644fff, #d152ff, #060db7);
 	position: relative;
 	overflow: hidden;
 }
